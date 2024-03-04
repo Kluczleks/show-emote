@@ -126,7 +126,7 @@ class Twi {
 }
 
 Twi.getEmoteAPIEndpoint = () => {
-  return "https://open.streamoverlay.xyz/twitch/emotes";
+  return "https://open.staroverlay.com/twitch/emotes";
 };
 
 Twi.getQueries = () => {
